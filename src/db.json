@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "Note": "Take out the trash",
+        "Done" : true
+    },
+    {
+        "id": 2,
+        "Note": "Buy bread",
+        "Done" : true
+    },
+    {
+        "id": 3,
+        "Note": "eat bread",
+        "Done" : false
+    },
+    {
+        "id": 4,
+        "Note": " Do home ",
+        "Done": false
+    }
+]
